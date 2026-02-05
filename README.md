@@ -46,7 +46,7 @@ fully-functional Todo application built with Angular 21 and TypeScript.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/todo-app.git
+git clone https://github.com/YOUR_USERNAME/todo-app.git](https://github.com/Elsayegh/angular-todo-app
 cd todo-app
 ```
 
